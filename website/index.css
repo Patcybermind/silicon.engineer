@@ -54,3 +54,14 @@ header {
     transition: color 0.2s ease;
     text-decoration: none;
 }
+
+.p {
+    margin-top: 3%;
+    margin-bottom: 0px;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #000000;
+}
